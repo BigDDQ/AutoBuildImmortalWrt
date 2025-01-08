@@ -29,10 +29,6 @@ PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
-PACKAGES="$PACKAGES luci-app-passwall_24.12.26_all.ipk"
-PACKAGES="$PACKAGES luci-app-openclash_0.46.050-beta_all.ipk"
-PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn_git-24.350.57352-d0e58d9_all.ipk"
-PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn_git-24.350.57352-d0e58d9_all.ipk"
 
 # 构建镜像
 echo "$(date '+%Y-%m-%d %H:%M:%S') - Building image with the following packages:"
